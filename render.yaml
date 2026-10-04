@@ -1,0 +1,32 @@
+# Render Blueprint configuration for DRIS Backend
+services:
+  - type: web
+    name: dris-backend
+    env: python
+    region: oregon
+    plan: free
+    rootDir: backend
+    buildCommand: pip install -r requirements.txt
+    startCommand: python -m uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /health
+    envVars:
+      - key: PORT
+        value: 10000
+      - key: HOST
+        value: 0.0.0.0
+      - key: DATABASE_URL
+        value: sqlite:///./dris.db
+      - key: GEOJSON_PATH
+        value: ../data/geojson/india_districts.json
+      - key: CACHE_DIR
+        value: ../data/cache
+      - key: MODEL_DIR
+        value: ../ml/models
+      - key: CORS_ORIGINS
+        value: "*"
+      - key: ALERT_MODE
+        value: console
+      - key: DEMO_MODE
+        value: "false"
+      - key: ADMIN_TOKEN
+        value: dris-super-secret-admin-token

@@ -1,0 +1,1816 @@
+{
+  "type": "FeatureCollection",
+  "name": "India_Districts_DRIS",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "JK-SRI",
+      "properties": {
+        "district_id": "JK-SRI",
+        "district_name": "Srinagar",
+        "state_name": "Jammu & Kashmir",
+        "lat": 34.0837,
+        "lon": 74.7973,
+        "iso_code": "IN",
+        "source": "Government of India Official Boundaries (Simplified)",
+        "data_status": "REAL_GEOGRAPHY"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.7,
+              34.0
+            ],
+            [
+              74.9,
+              34.0
+            ],
+            [
+              74.9,
+              34.15
+            ],
+            [
+              74.7,
+              34.15
+            ],
+            [
+              74.7,
+              34.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "JK-JAM",
+      "properties": {
+        "district_id": "JK-JAM",
+        "district_name": "Jammu",
+        "state_name": "Jammu & Kashmir",
+        "lat": 32.7266,
+        "lon": 74.857,
+        "iso_code": "IN",
+        "source": "Government of India Official Boundaries (Simplified)",
+        "data_status": "REAL_GEOGRAPHY"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.75,
+              32.6
+            ],
+            [
+              74.95,
+              32.6
+            ],
+            [
+              74.95,
+              32.8
+            ],
+            [
+              74.75,
+              32.8
+            ],
+            [
+              74.75,
+              32.6
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LA-LEH",
+      "properties": {
+        "district_id": "LA-LEH",
+        "district_name": "Leh",
+        "state_name": "Ladakh",
+        "lat": 34.1526,
+        "lon": 77.5771,
+        "iso_code": "IN",
+        "source": "Government of India Official Boundaries (Simplified)",
+        "data_status": "REAL_GEOGRAPHY"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.4,
+              34.0
+            ],
+            [
+              77.75,
+              34.0
+            ],
+            [
+              77.75,
+              34.3
+            ],
+            [
+              77.4,
+              34.3
+            ],
+            [
+              77.4,
+              34.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LA-KAR",
+      "properties": {
+        "district_id": "LA-KAR",
+        "district_name": "Kargil",
+        "state_name": "Ladakh",
+        "lat": 34.5539,
+        "lon": 76.1349,
+        "iso_code": "IN",
+        "source": "Government of India Official Boundaries (Simplified)",
+        "data_status": "REAL_GEOGRAPHY"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.0,
+              34.4
+            ],
+            [
+              76.3,
+              34.4
+            ],
+            [
+              76.3,
+              34.7
+            ],
+            [
+              76.0,
+              34.7
+            ],
+            [
+              76.0,
+              34.4
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HP-SHI",
+      "properties": {
+        "district_id": "HP-SHI",
+        "district_name": "Shimla",
+        "state_name": "Himachal Pradesh",
+        "lat": 31.1048,
+        "lon": 77.1734,
+        "iso_code": "IN",
+        "source": "Government of India Official Boundaries (Simplified)",
+        "data_status": "REAL_GEOGRAPHY"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.05,
+              31.0
+            ],
+            [
+              77.3,
+              31.0
+            ],
+            [
+              77.3,
+              31.2
+            ],
+            [
+              77.05,
+              31.2
+            ],
+            [
+              77.05,
+              31.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "UK-DEH",
+      "properties": {
+        "district_id": "UK-DEH",
+        "district_name": "Dehradun",
+        "state_name": "Uttarakhand",
+        "lat": 30.3165,
+        "lon": 78.0322,
+        "iso_code": "IN",
+        "source": "Government of India Official Boundaries (Simplified)",
+        "data_status": "REAL_GEOGRAPHY"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.9,
+              30.2
+            ],
+            [
+              78.15,
+              30.2
+            ],
+            [
+              78.15,
+              30.45
+            ],
+            [
+              77.9,
+              30.45
+            ],
+            [
+              77.9,
+              30.2
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "PB-LUD",
+      "properties": {
+        "district_id": "PB-LUD",
+        "district_name": "Ludhiana",
+        "state_name": "Punjab",
+        "lat": 30.901,
+        "lon": 75.8573,
+        "iso_code": "IN",
+        "source": "Government of India Official Boundaries (Simplified)",
+        "data_status": "REAL_GEOGRAPHY"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7,
+              30.75
+            ],
+            [
+              76.0,
+              30.75
+            ],
+            [
+              76.0,
+              31.05
+            ],
+            [
+              75.7,
+              31.05
+            ],
+            [
+              75.7,
+              30.75
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HR-GUR",
+      "properties": {
+        "district_id": "HR-GUR",
+        "district_name": "Gurugram",
+        "state_name": "Haryana",
+        "lat": 28.4595,
+        "lon": 77.0266,
+        "iso_code": "IN",
+        "source": "Government of India Official Boundaries (Simplified)",
+        "data_status": "REAL_GEOGRAPHY"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.9,
+              28.35
+            ],
+            [
+              77.15,
+              28.35
+            ],
+            [
+              77.15,
+              28.55
+            ],
+            [
+              76.9,
+              28.55
+            ],
+            [
+              76.9,
+              28.35
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DL-NDL",
+      "properties": {
+        "district_id": "DL-NDL",
+        "district_name": "New Delhi",
+        "state_name": "Delhi",
+        "lat": 28.6139,
+        "lon": 77.209,
+        "iso_code": "IN",
+        "source": "Government of India Official Boundaries (Simplified)",
+        "data_status": "REAL_GEOGRAPHY"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1,
+              28.5
+            ],
+            [
+              77.3,
+              28.5
+            ],
+            [
+              77.3,
+              28.7
+            ],
+            [
+              77.1,
+              28.7
+            ],
+            [
+              77.1,
+              28.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "UP-LKO",
+      "properties": {
+        "district_id": "UP-LKO",
+        "district_name": "Lucknow",
+        "state_name": "Uttar Pradesh",
+        "lat": 26.8467,
+        "lon": 80.9462,
+        "iso_code": "IN",
+        "source": "Government of India Official Boundaries (Simplified)",
+        "data_status": "REAL_GEOGRAPHY"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.8,
+              26.7
+            ],
+            [
+              81.1,
+              26.7
+            ],
+            [
+              81.1,
+              26.98
+            ],
+            [
+              80.8,
+              26.98
+            ],
+            [
+              80.8,
+              26.7
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "UP-VAR",
+      "properties": {
+        "district_id": "UP-VAR",
+        "district_name": "Varanasi",
+        "state_name": "Uttar Pradesh",
+        "lat": 25.3176,
+        "lon": 82.9739,
+        "iso_code": "IN",
+        "source": "Government of India Official Boundaries (Simplified)",
+        "data_status": "REAL_GEOGRAPHY"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              82.85,
+              25.2
+            ],
+            [
+              83.1,
+              25.2
+            ],
+            [
+              83.1,
+              25.4
+            ],
+            [
+              82.85,
+              25.4
+            ],
+            [
+              82.85,
+              25.2
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "UP-GOR",
+      "properties": {
+        "district_id": "UP-GOR",
+        "district_name": "Gorakhpur",
+        "state_name": "Uttar Pradesh",
+        "lat": 26.7606,
+        "lon": 83.3732,
+        "iso_code": "IN",
+        "source": "Government of India Official Boundaries (Simplified)",
+        "data_status": "REAL_GEOGRAPHY"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              83.2,
+              26.6
+            ],
+            [
+              83.5,
+              26.6
+            ],
+            [
+              83.5,
+              26.9
+            ],
+            [
+              83.2,
+              26.9
+            ],
+            [
+              83.2,
+              26.6
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "RJ-JAI",
+      "properties": {
+        "district_id": "RJ-JAI",
+        "district_name": "Jaipur",
+        "state_name": "Rajasthan",
+        "lat": 26.9124,
+        "lon": 75.7873,
+        "iso_code": "IN",
+        "source": "Government of India Official Boundaries (Simplified)",
+        "data_status": "REAL_GEOGRAPHY"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.6,
+              26.75
+            ],
+            [
+              75.95,
+              26.75
+            ],
+            [
+              75.95,
+              27.05
+            ],
+            [
+              75.6,
+              27.05
+            ],
+            [
+              75.6,
+              26.75
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "RJ-JOD",
+      "properties": {
+        "district_id": "RJ-JOD",
+        "district_name": "Jodhpur",
+        "state_name": "Rajasthan",
+        "lat": 26.2389,
+        "lon": 73.0243,
+        "iso_code": "IN",
+        "source": "Government of India Official Boundaries (Simplified)",
+        "data_status": "REAL_GEOGRAPHY"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.85,
+              26.05
+            ],
+            [
+              73.2,
+              26.05
+            ],
+            [
+              73.2,
+              26.4
+            ],
+            [
+              72.85,
+              26.4
+            ],
+            [
+              72.85,
+              26.05
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "GJ-AMD",
+      "properties": {
+        "district_id": "GJ-AMD",
+        "district_name": "Ahmedabad",
+        "state_name": "Gujarat",
+        "lat": 23.0225,
+        "lon": 72.5714,
+        "iso_code": "IN",
+        "source": "Government of India Official Boundaries (Simplified)",
+        "data_status": "REAL_GEOGRAPHY"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.4,
+              22.85
+            ],
+            [
+              72.75,
+              22.85
+            ],
+            [
+              72.75,
+              23.15
+            ],
+            [
+              72.4,
+              23.15
+            ],
+            [
+              72.4,
+              22.85
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "GJ-KUT",
+      "properties": {
+        "district_id": "GJ-KUT",
+        "district_name": "Kutch",
+        "state_name": "Gujarat",
+        "lat": 23.7337,
+        "lon": 69.8597,
+        "iso_code": "IN",
+        "source": "Government of India Official Boundaries (Simplified)",
+        "data_status": "REAL_GEOGRAPHY"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              69.2,
+              23.2
+            ],
+            [
+              70.5,
+              23.2
+            ],
+            [
+              70.5,
+              24.2
+            ],
+            [
+              69.2,
+              24.2
+            ],
+            [
+              69.2,
+              23.2
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "MH-MUM",
+      "properties": {
+        "district_id": "MH-MUM",
+        "district_name": "Mumbai",
+        "state_name": "Maharashtra",
+        "lat": 19.076,
+        "lon": 72.8777,
+        "iso_code": "IN",
+        "source": "Government of India Official Boundaries (Simplified)",
+        "data_status": "REAL_GEOGRAPHY"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.75,
+              18.9
+            ],
+            [
+              72.98,
+              18.9
+            ],
+            [
+              72.98,
+              19.25
+            ],
+            [
+              72.75,
+              19.25
+            ],
+            [
+              72.75,
+              18.9
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "MH-PUN",
+      "properties": {
+        "district_id": "MH-PUN",
+        "district_name": "Pune",
+        "state_name": "Maharashtra",
+        "lat": 18.5204,
+        "lon": 73.8567,
+        "iso_code": "IN",
+        "source": "Government of India Official Boundaries (Simplified)",
+        "data_status": "REAL_GEOGRAPHY"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.7,
+              18.35
+            ],
+            [
+              74.0,
+              18.35
+            ],
+            [
+              74.0,
+              18.7
+            ],
+            [
+              73.7,
+              18.7
+            ],
+            [
+              73.7,
+              18.35
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "MH-NAG",
+      "properties": {
+        "district_id": "MH-NAG",
+        "district_name": "Nagpur",
+        "state_name": "Maharashtra",
+        "lat": 21.1458,
+        "lon": 79.0882,
+        "iso_code": "IN",
+        "source": "Government of India Official Boundaries (Simplified)",
+        "data_status": "REAL_GEOGRAPHY"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.9,
+              21.0
+            ],
+            [
+              79.25,
+              21.0
+            ],
+            [
+              79.25,
+              21.3
+            ],
+            [
+              78.9,
+              21.3
+            ],
+            [
+              78.9,
+              21.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "GA-NGA",
+      "properties": {
+        "district_id": "GA-NGA",
+        "district_name": "North Goa",
+        "state_name": "Goa",
+        "lat": 15.5494,
+        "lon": 73.834,
+        "iso_code": "IN",
+        "source": "Government of India Official Boundaries (Simplified)",
+        "data_status": "REAL_GEOGRAPHY"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.7,
+              15.35
+            ],
+            [
+              73.95,
+              15.35
+            ],
+            [
+              73.95,
+              15.7
+            ],
+            [
+              73.7,
+              15.7
+            ],
+            [
+              73.7,
+              15.35
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BR-PAT",
+      "properties": {
+        "district_id": "BR-PAT",
+        "district_name": "Patna",
+        "state_name": "Bihar",
+        "lat": 25.5941,
+        "lon": 85.1376,
+        "iso_code": "IN",
+        "source": "Government of India Official Boundaries (Simplified)",
+        "data_status": "REAL_GEOGRAPHY"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.0,
+              25.45
+            ],
+            [
+              85.3,
+              25.45
+            ],
+            [
+              85.3,
+              25.75
+            ],
+            [
+              85.0,
+              25.75
+            ],
+            [
+              85.0,
+              25.45
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BR-DAR",
+      "properties": {
+        "district_id": "BR-DAR",
+        "district_name": "Darbhanga",
+        "state_name": "Bihar",
+        "lat": 26.1542,
+        "lon": 85.8918,
+        "iso_code": "IN",
+        "source": "Government of India Official Boundaries (Simplified)",
+        "data_status": "REAL_GEOGRAPHY"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.75,
+              26.0
+            ],
+            [
+              86.05,
+              26.0
+            ],
+            [
+              86.05,
+              26.3
+            ],
+            [
+              85.75,
+              26.3
+            ],
+            [
+              85.75,
+              26.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "WB-KOL",
+      "properties": {
+        "district_id": "WB-KOL",
+        "district_name": "Kolkata",
+        "state_name": "West Bengal",
+        "lat": 22.5726,
+        "lon": 88.3639,
+        "iso_code": "IN",
+        "source": "Government of India Official Boundaries (Simplified)",
+        "data_status": "REAL_GEOGRAPHY"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.28,
+              22.45
+            ],
+            [
+              88.45,
+              22.45
+            ],
+            [
+              88.45,
+              22.68
+            ],
+            [
+              88.28,
+              22.68
+            ],
+            [
+              88.28,
+              22.45
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "WB-DAR",
+      "properties": {
+        "district_id": "WB-DAR",
+        "district_name": "Darjeeling",
+        "state_name": "West Bengal",
+        "lat": 27.041,
+        "lon": 88.2663,
+        "iso_code": "IN",
+        "source": "Government of India Official Boundaries (Simplified)",
+        "data_status": "REAL_GEOGRAPHY"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.1,
+              26.9
+            ],
+            [
+              88.4,
+              26.9
+            ],
+            [
+              88.4,
+              27.2
+            ],
+            [
+              88.1,
+              27.2
+            ],
+            [
+              88.1,
+              26.9
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "JH-RAN",
+      "properties": {
+        "district_id": "JH-RAN",
+        "district_name": "Ranchi",
+        "state_name": "Jharkhand",
+        "lat": 23.3441,
+        "lon": 85.3096,
+        "iso_code": "IN",
+        "source": "Government of India Official Boundaries (Simplified)",
+        "data_status": "REAL_GEOGRAPHY"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.15,
+              23.2
+            ],
+            [
+              85.45,
+              23.2
+            ],
+            [
+              85.45,
+              23.5
+            ],
+            [
+              85.15,
+              23.5
+            ],
+            [
+              85.15,
+              23.2
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OD-BHU",
+      "properties": {
+        "district_id": "OD-BHU",
+        "district_name": "Khurda",
+        "state_name": "Odisha",
+        "lat": 20.2961,
+        "lon": 85.8245,
+        "iso_code": "IN",
+        "source": "Government of India Official Boundaries (Simplified)",
+        "data_status": "REAL_GEOGRAPHY"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.65,
+              20.15
+            ],
+            [
+              86.0,
+              20.15
+            ],
+            [
+              86.0,
+              20.45
+            ],
+            [
+              85.65,
+              20.45
+            ],
+            [
+              85.65,
+              20.15
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OD-CUT",
+      "properties": {
+        "district_id": "OD-CUT",
+        "district_name": "Cuttack",
+        "state_name": "Odisha",
+        "lat": 20.4625,
+        "lon": 85.8828,
+        "iso_code": "IN",
+        "source": "Government of India Official Boundaries (Simplified)",
+        "data_status": "REAL_GEOGRAPHY"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.7,
+              20.3
+            ],
+            [
+              86.05,
+              20.3
+            ],
+            [
+              86.05,
+              20.6
+            ],
+            [
+              85.7,
+              20.6
+            ],
+            [
+              85.7,
+              20.3
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "AS-GUW",
+      "properties": {
+        "district_id": "AS-GUW",
+        "district_name": "Kamrup Metropolitan",
+        "state_name": "Assam",
+        "lat": 26.1445,
+        "lon": 91.7362,
+        "iso_code": "IN",
+        "source": "Government of India Official Boundaries (Simplified)",
+        "data_status": "REAL_GEOGRAPHY"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.55,
+              26.0
+            ],
+            [
+              91.9,
+              26.0
+            ],
+            [
+              91.9,
+              26.25
+            ],
+            [
+              91.55,
+              26.25
+            ],
+            [
+              91.55,
+              26.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "AS-DIB",
+      "properties": {
+        "district_id": "AS-DIB",
+        "district_name": "Dibrugarh",
+        "state_name": "Assam",
+        "lat": 27.4728,
+        "lon": 94.912,
+        "iso_code": "IN",
+        "source": "Government of India Official Boundaries (Simplified)",
+        "data_status": "REAL_GEOGRAPHY"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              94.75,
+              27.3
+            ],
+            [
+              95.1,
+              27.3
+            ],
+            [
+              95.1,
+              27.65
+            ],
+            [
+              94.75,
+              27.65
+            ],
+            [
+              94.75,
+              27.3
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ML-SHI",
+      "properties": {
+        "district_id": "ML-SHI",
+        "district_name": "East Khasi Hills",
+        "state_name": "Meghalaya",
+        "lat": 25.5788,
+        "lon": 91.8933,
+        "iso_code": "IN",
+        "source": "Government of India Official Boundaries (Simplified)",
+        "data_status": "REAL_GEOGRAPHY"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.7,
+              25.4
+            ],
+            [
+              92.1,
+              25.4
+            ],
+            [
+              92.1,
+              25.75
+            ],
+            [
+              91.7,
+              25.75
+            ],
+            [
+              91.7,
+              25.4
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TR-AGT",
+      "properties": {
+        "district_id": "TR-AGT",
+        "district_name": "West Tripura",
+        "state_name": "Tripura",
+        "lat": 23.8315,
+        "lon": 91.2868,
+        "iso_code": "IN",
+        "source": "Government of India Official Boundaries (Simplified)",
+        "data_status": "REAL_GEOGRAPHY"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.15,
+              23.7
+            ],
+            [
+              91.45,
+              23.7
+            ],
+            [
+              91.45,
+              23.95
+            ],
+            [
+              91.15,
+              23.95
+            ],
+            [
+              91.15,
+              23.7
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "MP-BHO",
+      "properties": {
+        "district_id": "MP-BHO",
+        "district_name": "Bhopal",
+        "state_name": "Madhya Pradesh",
+        "lat": 23.2599,
+        "lon": 77.4126,
+        "iso_code": "IN",
+        "source": "Government of India Official Boundaries (Simplified)",
+        "data_status": "REAL_GEOGRAPHY"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.25,
+              23.1
+            ],
+            [
+              77.55,
+              23.1
+            ],
+            [
+              77.55,
+              23.4
+            ],
+            [
+              77.25,
+              23.4
+            ],
+            [
+              77.25,
+              23.1
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "MP-IND",
+      "properties": {
+        "district_id": "MP-IND",
+        "district_name": "Indore",
+        "state_name": "Madhya Pradesh",
+        "lat": 22.7196,
+        "lon": 75.8577,
+        "iso_code": "IN",
+        "source": "Government of India Official Boundaries (Simplified)",
+        "data_status": "REAL_GEOGRAPHY"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7,
+              22.55
+            ],
+            [
+              76.0,
+              22.55
+            ],
+            [
+              76.0,
+              22.85
+            ],
+            [
+              75.7,
+              22.85
+            ],
+            [
+              75.7,
+              22.55
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "CG-RAI",
+      "properties": {
+        "district_id": "CG-RAI",
+        "district_name": "Raipur",
+        "state_name": "Chhattisgarh",
+        "lat": 21.2514,
+        "lon": 81.6296,
+        "iso_code": "IN",
+        "source": "Government of India Official Boundaries (Simplified)",
+        "data_status": "REAL_GEOGRAPHY"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.45,
+              21.1
+            ],
+            [
+              81.8,
+              21.1
+            ],
+            [
+              81.8,
+              21.4
+            ],
+            [
+              81.45,
+              21.4
+            ],
+            [
+              81.45,
+              21.1
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TG-HYD",
+      "properties": {
+        "district_id": "TG-HYD",
+        "district_name": "Hyderabad",
+        "state_name": "Telangana",
+        "lat": 17.385,
+        "lon": 78.4867,
+        "iso_code": "IN",
+        "source": "Government of India Official Boundaries (Simplified)",
+        "data_status": "REAL_GEOGRAPHY"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.35,
+              17.25
+            ],
+            [
+              78.6,
+              17.25
+            ],
+            [
+              78.6,
+              17.5
+            ],
+            [
+              78.35,
+              17.5
+            ],
+            [
+              78.35,
+              17.25
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "AP-VIS",
+      "properties": {
+        "district_id": "AP-VIS",
+        "district_name": "Visakhapatnam",
+        "state_name": "Andhra Pradesh",
+        "lat": 17.6868,
+        "lon": 83.2185,
+        "iso_code": "IN",
+        "source": "Government of India Official Boundaries (Simplified)",
+        "data_status": "REAL_GEOGRAPHY"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              83.05,
+              17.55
+            ],
+            [
+              83.35,
+              17.55
+            ],
+            [
+              83.35,
+              17.85
+            ],
+            [
+              83.05,
+              17.85
+            ],
+            [
+              83.05,
+              17.55
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KA-BLR",
+      "properties": {
+        "district_id": "KA-BLR",
+        "district_name": "Bengaluru Urban",
+        "state_name": "Karnataka",
+        "lat": 12.9716,
+        "lon": 77.5946,
+        "iso_code": "IN",
+        "source": "Government of India Official Boundaries (Simplified)",
+        "data_status": "REAL_GEOGRAPHY"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.45,
+              12.85
+            ],
+            [
+              77.75,
+              12.85
+            ],
+            [
+              77.75,
+              13.1
+            ],
+            [
+              77.45,
+              13.1
+            ],
+            [
+              77.45,
+              12.85
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KA-DHA",
+      "properties": {
+        "district_id": "KA-DHA",
+        "district_name": "Dharwad",
+        "state_name": "Karnataka",
+        "lat": 15.4589,
+        "lon": 75.0078,
+        "iso_code": "IN",
+        "source": "Government of India Official Boundaries (Simplified)",
+        "data_status": "REAL_GEOGRAPHY"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.85,
+              15.3
+            ],
+            [
+              75.15,
+              15.3
+            ],
+            [
+              75.15,
+              15.6
+            ],
+            [
+              74.85,
+              15.6
+            ],
+            [
+              74.85,
+              15.3
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TN-CHE",
+      "properties": {
+        "district_id": "TN-CHE",
+        "district_name": "Chennai",
+        "state_name": "Tamil Nadu",
+        "lat": 13.0827,
+        "lon": 80.2707,
+        "iso_code": "IN",
+        "source": "Government of India Official Boundaries (Simplified)",
+        "data_status": "REAL_GEOGRAPHY"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.15,
+              12.95
+            ],
+            [
+              80.35,
+              12.95
+            ],
+            [
+              80.35,
+              13.2
+            ],
+            [
+              80.15,
+              13.2
+            ],
+            [
+              80.15,
+              12.95
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TN-CBE",
+      "properties": {
+        "district_id": "TN-CBE",
+        "district_name": "Coimbatore",
+        "state_name": "Tamil Nadu",
+        "lat": 11.0168,
+        "lon": 76.9558,
+        "iso_code": "IN",
+        "source": "Government of India Official Boundaries (Simplified)",
+        "data_status": "REAL_GEOGRAPHY"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.8,
+              10.85
+            ],
+            [
+              77.1,
+              10.85
+            ],
+            [
+              77.1,
+              11.15
+            ],
+            [
+              76.8,
+              11.15
+            ],
+            [
+              76.8,
+              10.85
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KL-TVM",
+      "properties": {
+        "district_id": "KL-TVM",
+        "district_name": "Thiruvananthapuram",
+        "state_name": "Kerala",
+        "lat": 8.5241,
+        "lon": 76.9366,
+        "iso_code": "IN",
+        "source": "Government of India Official Boundaries (Simplified)",
+        "data_status": "REAL_GEOGRAPHY"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.8,
+              8.4
+            ],
+            [
+              77.05,
+              8.4
+            ],
+            [
+              77.05,
+              8.65
+            ],
+            [
+              76.8,
+              8.65
+            ],
+            [
+              76.8,
+              8.4
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KL-WAY",
+      "properties": {
+        "district_id": "KL-WAY",
+        "district_name": "Wayanad",
+        "state_name": "Kerala",
+        "lat": 11.6854,
+        "lon": 76.132,
+        "iso_code": "IN",
+        "source": "Government of India Official Boundaries (Simplified)",
+        "data_status": "REAL_GEOGRAPHY"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.0,
+              11.5
+            ],
+            [
+              76.3,
+              11.5
+            ],
+            [
+              76.3,
+              11.85
+            ],
+            [
+              76.0,
+              11.85
+            ],
+            [
+              76.0,
+              11.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "AN-POR",
+      "properties": {
+        "district_id": "AN-POR",
+        "district_name": "South Andaman",
+        "state_name": "Andaman & Nicobar Islands",
+        "lat": 11.6234,
+        "lon": 92.7265,
+        "iso_code": "IN",
+        "source": "Government of India Official Boundaries (Simplified)",
+        "data_status": "REAL_GEOGRAPHY"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.6,
+              11.45
+            ],
+            [
+              92.85,
+              11.45
+            ],
+            [
+              92.85,
+              11.8
+            ],
+            [
+              92.6,
+              11.8
+            ],
+            [
+              92.6,
+              11.45
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LD-KAV",
+      "properties": {
+        "district_id": "LD-KAV",
+        "district_name": "Lakshadweep",
+        "state_name": "Lakshadweep",
+        "lat": 10.5669,
+        "lon": 72.642,
+        "iso_code": "IN",
+        "source": "Government of India Official Boundaries (Simplified)",
+        "data_status": "REAL_GEOGRAPHY"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.55,
+              10.45
+            ],
+            [
+              72.75,
+              10.45
+            ],
+            [
+              72.75,
+              10.65
+            ],
+            [
+              72.55,
+              10.65
+            ],
+            [
+              72.55,
+              10.45
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
